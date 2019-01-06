@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">steam</string>
+    <string name="account_name">ACCOUNT NAME</string>
+    <string name="password">PASSWORD</string>
+    <string name="password_hint">**************</string>
+    <string name="forgot_your_login_info">FORGOT YOUR LOGIN INFO?</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="remember_my_password">REMEMBER MY PASSWORD</string>
+    <string name="username">Username</string>
+    <string name="first_name">PRIMEIRO NOME</string>
+    <string name="last_name">SOBRENOME</string>
+    <string name="email">EMAIL</string>
+    <string name="create_account">CRIAR CONTA</string>
+    <string name="email_hint">teste@example.com</string>
+    <string name="reset_senha">EVIAR EMAIL DE RECUPERAÇÃO</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>

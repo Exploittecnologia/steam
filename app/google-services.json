@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1014553158867",
+    "firebase_url": "https://steamauth-33b0a.firebaseio.com",
+    "project_id": "steamauth-33b0a",
+    "storage_bucket": "steamauth-33b0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014553158867:android:d114347ba3ee92cb",
+        "android_client_info": {
+          "package_name": "br.com.fake.steam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014553158867-beisdmor8ejfjoic3r5m27hum205g2v4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjdv5nWeX780jqlbyCM9wV0W4qeFdv6-I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
